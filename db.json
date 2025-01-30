@@ -1,0 +1,40 @@
+{
+    "inscription": [
+        {
+            "nom": "Fall",
+            "prenom": "John",
+            "matricule": "A000001",
+            "classe":"MA1",
+            "email": "John@example.com"
+        },
+        {
+            "nom": "Fall",
+            "prenom": "Jane",
+            "matricule": "A00000",
+            "classe":"MA2",
+            "email": "Jane@example.com"
+        },
+        {
+            "nom": "Fall",
+            "prenom": "Wane",
+            "matricule": "A000002",
+            "classe":"MA1",
+            "email": "Wane@example.com"
+        },
+        {
+            "nom": "Fall",
+            "prenom": "MODOU",
+            "matricule": "A00000",
+            "classe":"MA2",
+            "email": "MODOU@example.com"
+        },
+        {
+            "nom": "Fall",
+            "prenom": "Pathe",
+            "matricule": "A00000",
+            "classe":"MA2",
+            "email": "Pathe@example.com"
+        }
+    ]
+}
+
